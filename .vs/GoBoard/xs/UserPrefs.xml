@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{3ED095F1-5AC4-1E57-0582-2140966BC4E0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerInput.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ChangeText.cs" Line="39" Column="1" />
+      <File FileName="Assets/Scripts/UIManager.cs" />
+      <File FileName="Assets/Scripts/AudioManager.cs" />
+      <File FileName="Assets/Scripts/Sound.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/PlayerMover.cs" />
+      <File FileName="Assets/Scripts/Mover.cs" />
+      <File FileName="Assets/Scripts/EnemyMover.cs" />
+      <File FileName="Assets/Scripts/EnemyDeath.cs" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" />
+      <File FileName="Assets/Scripts/AbilityManager.cs" />
+      <File FileName="Assets/Scripts/TurnManager.cs" />
+      <File FileName="Assets/Scripts/PlayerDeath.cs" />
+      <File FileName="Assets/Scripts/EnergyManager.cs" />
+      <File FileName="Assets/Scripts/DataHolder.cs" />
+      <File FileName="Assets/Scripts/Timer.cs" />
+      <File FileName="Assets/Scripts/Board.cs" />
+      <File FileName="Assets/LowPolyWater_Pack/Scripts/LowPolyWater.cs" />
+      <File FileName="Assets/LowPolyWater_Pack/Shaders/WaterShaded.shader" />
+      <File FileName="Assets/Scripts/MoveCamera.cs" />
+      <File FileName="Assets/Scripts/EnemyAttack.cs" />
+      <File FileName="Assets/Scripts/EnemyManager.cs" />
+      <File FileName="Assets/Scripts/ChangeSceneTo3.cs" />
+      <File FileName="Assets/Scripts/PlayerInput.cs" Line="21" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5de1b3fe-f91b-421e-9a8d-cf6e55eeb660" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
