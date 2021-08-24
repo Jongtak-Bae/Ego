@@ -7,3 +7,5 @@ Trailer of the game:
 https://youtu.be/uU-4b-TZyfo
 
 Screenshot of the game
+
+![Screenshot of the game](https://github.com/Jongtak-Bae/Ego/blob/main/Screen%20Shot%20.png)
